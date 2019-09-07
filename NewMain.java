@@ -84,12 +84,8 @@ public class NewMain {
                          }}catch (IndexOutOfBoundsException e){
                             System.out.println("Invalid ID");
                         }
-//                         if (j == employeeList.size()) {
-//                        System.out.println("InValid ID");
-//                    }else
-//                        System.out.println("update successfully");
-                         break;
 
+                         break;
 
                          case 5:
                         for (Employee emp : employeeList) {
